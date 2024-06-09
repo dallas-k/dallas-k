@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 ## 😄Profile
 
-Hello Worlds! I'm Frontend Developer and also interested in System Trading with Python.
-
+Hello World!
 ![Dallas-k's GitHub stats](https://github-readme-stats.vercel.app/api?username=dallas-k&show_icons=true&theme=radical)
 
 ## ⚡Skills
